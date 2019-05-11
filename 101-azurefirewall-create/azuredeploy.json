@@ -19,7 +19,7 @@
       "type": "string",
       "defaultValue": "subnet1",
       "metadata": {
-        "description": "Subnet Name"
+        "description": "Subnet Name."
       }
     },
     "subnetPrefix": {
